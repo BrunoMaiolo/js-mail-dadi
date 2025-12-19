@@ -8,3 +8,7 @@ const invitedEmails = [
     "andrea@hotmail.it",
     "luigi@hotmail.it"
 ];
+
+// Chiedere la mail all'utente
+const userMail = prompt("Inserisci la tua email");
+
