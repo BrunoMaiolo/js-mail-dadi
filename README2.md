@@ -1,0 +1,6 @@
+- Genero un numero casuale tra 1 e 6 per il giocatore
+- Genero un numero casuale tra 1 e 6 per il computer
+- Stampo entrambi i risultati
+ - Se giocatore > computer  vince giocatore
+ - Se computer > giocatore vince computer
+- Altrimenti pareggio
