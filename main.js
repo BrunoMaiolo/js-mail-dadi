@@ -15,3 +15,10 @@ const userMail = prompt("Inserisci la tua email");
 //Controllo della mail
 let isInvited = false;
 
+//Apro un ciclo  con FOR
+for (let i = 0; i < invitedEmails.length; i++) {
+    if(invitedEmails[i] === userMail) {
+        isInvited = true;
+    }
+}
+
