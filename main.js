@@ -22,3 +22,11 @@ for (let i = 0; i < invitedEmails.length; i++) {
     }
 }
 
+// Messaggio sull'invito se e' vero o falso
+if (isInvited) {
+    console.log("Accesso consentito");
+}
+else {
+    console.log("Accesso negato");
+}
+
