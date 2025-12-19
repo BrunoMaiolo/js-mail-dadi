@@ -12,3 +12,6 @@ const invitedEmails = [
 // Chiedere la mail all'utente
 const userMail = prompt("Inserisci la tua email");
 
+//Controllo della mail
+let isInvited = false;
+
